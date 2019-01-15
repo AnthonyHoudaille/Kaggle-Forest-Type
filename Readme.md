@@ -166,14 +166,17 @@ The third and fourth ELU digits are unique to the mapping unit
 and have no special meaning to the climatic or geologic zones.
 
 Forest Cover Type Classes: 1 -- Spruce/Fir
-2 -- Lodgepole Pine
-3 -- Ponderosa Pine
-4 -- Cottonwood/Willow
-5 -- Aspen
-6 -- Douglas-fir
-7 -- Krummholz
+2. Lodgepole Pine
+3. Ponderosa Pine
+4. Cottonwood/Willow
+5. Aspen
+6. Douglas-fir
+7. Krummholz
 
 For further information: https://archive.ics.uci.edu/ml/machine-learning-databases/covtype/covtype.info
 
 I made this kernel with DATABRICKS COMMUNITY EDITION.
+
 The language is SCALA. I used PySPARK librairy.
+
+This challenge was part of a private in-class Kaggle Challenge. I have reached an accuracy of 0.90805 which allowed me the mark 18.5/20 for the evaluation.
