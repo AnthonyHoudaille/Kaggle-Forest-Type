@@ -175,8 +175,10 @@ Forest Cover Type Classes: 1 -- Spruce/Fir
 
 For further information: https://archive.ics.uci.edu/ml/machine-learning-databases/covtype/covtype.info
 
-I made this kernel with DATABRICKS COMMUNITY EDITION.
+# My submition :
 
-The language is SCALA. I used PySPARK librairy.
+• I made this kernel with DATABRICKS COMMUNITY EDITION.
 
-This challenge was part of a private in-class Kaggle Challenge. I have reached an accuracy of 0.90805 which allowed me the mark 18.5/20 for the evaluation.
+• The language is SCALA. I used PySPARK librairy.
+
+• This challenge was part of a private in-class Kaggle Challenge. I have reached an accuracy of 0.90805 which allowed me the mark 18.5/20 for the evaluation.
