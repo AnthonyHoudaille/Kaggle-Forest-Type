@@ -102,18 +102,18 @@ numerals along the rows of the database.
 
 #### Wilderness Areas:
 
-1 -- Rawah Wilderness Area
-2 -- Neota Wilderness Area
-3 -- Comanche Peak Wilderness Area
-4 -- Cache la Poudre Wilderness Area
+1. Rawah Wilderness Area
+2. Neota Wilderness Area
+3. Comanche Peak Wilderness Area
+4. Cache la Poudre Wilderness Area
 
 Soil Types: 1 to 40 : based on the USFS Ecological
 Landtype Units (ELUs) for this study area:
 
 Study Code USFS ELU Code Description
-1 2702 Cathedral family - Rock outcrop complex, extremely stony.
-2 2703 Vanet - Ratake families complex, very stony.
-3 2704 Haploborolis - Rock outcrop complex, rubbly.
+- 1 2702 Cathedral family - Rock outcrop complex, extremely stony.
+- 2 2703 Vanet - Ratake families complex, very stony.
+- 3 2704 Haploborolis - Rock outcrop complex, rubbly.
 4 2705 Ratake family - Rock outcrop complex, rubbly.
 5 2706 Vanet family - Rock outcrop complex complex, rubbly.
 6 2717 Vanet - Wetmore families - Rock outcrop complex, stony.
